@@ -6,6 +6,9 @@ It is intentionally structured to help learners focus on CI/CD pipelines, hostin
 
 📁 What This Repository Contains
 
+<img width="964" height="230" alt="image" src="https://github.com/user-attachments/assets/6aa52383-fdd3-4749-aaab-2a8db87f72de" />
+
+
 dist/ – Compiled and production-ready static files
 
 HTML
